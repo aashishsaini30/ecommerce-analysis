@@ -44,28 +44,22 @@ This project analyzes a real-world e-commerce dataset using MySQL to answer busi
 ## Project Screenshots
 
 ### 1. Total Revenue Analysis
-
-![Total Revenue](01-total-revenue.png)
+![Total Revenue](./Screenshot%20(35).png)
 
 ### 2. Total Orders
-
-![Total Orders](02-total-orders.png)
+![Total Orders](./Screenshot%20(36).png)
 
 ### 3. Customers by State
-
-![Customers by State](03-customers-by-state.png)
+![Customers by State](./Screenshot%20(37).png)
 
 ### 4. Order Status Analysis
-
-![Order Status](04-order-status.png)
+![Order Status](./Screenshot%20(38).png)
 
 ### 5. Sales by Customer State
-
-![Sales by State](05-sales-by-state.png)
+![Sales by State](./Screenshot%20(39).png)
 
 ### 6. Customer Segmentation
-
-![Customer Segmentation](06-customer-segmentation.png)
+![Customer Segmentation](./Screenshot%20(40).png)
 
 ## Skills Demonstrated
 
